@@ -1,0 +1,17 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    color: rgb(253, 220, 246);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url('mbrot.jpeg');
+    background-size: cover;
+    margin-right: 20px;
+    margin-left: 20px;
+}
